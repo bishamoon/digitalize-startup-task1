@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "cityName": "Calabasas",
+        "stateName": "CA",
+        "cost": "$1.3k",
+        "beds": 2,
+        "appt.": true,
+        "imageURL": "assets/images/model1.png"
+    },
+    {
+        "id": 2,
+        "cityName": "Calabasas2",
+        "stateName": "CA",
+        "cost": "$5.3k",
+        "beds": 4,
+       
+        "imageURL": "assets/images/model1.png"
+    },
+    {
+        "id": 3,
+        "cityName": "Calabasas3",
+        "stateName": "CA",
+        "cost": "$66.3k",
+        "beds": 3,
+       
+        "imageURL": "assets/images/model1.png"
+    }
+]
